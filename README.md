@@ -205,7 +205,7 @@ Jika input tidak valid, program akan meminta pengguna untuk memilih menu lagi.
    Menjalankan fungsi `menu()` yang memulai seluruh alur program dan menampilkan menu kepada pengguna.
 
 # Hasil Interaksi Program 
-![foto]()
+![foto](https://github.com/aprilia55/labpy06/blob/fae788891b21fb4d49ab00b8cbf015125b31ef47/Screen%20Shot%202024-12-01%20at%2012.59.08.png)
 
 # Flow Chart alur penggunaan program
 ![foto]()
