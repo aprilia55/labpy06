@@ -208,7 +208,7 @@ Jika input tidak valid, program akan meminta pengguna untuk memilih menu lagi.
 ![foto](https://github.com/aprilia55/labpy06/blob/fae788891b21fb4d49ab00b8cbf015125b31ef47/Screen%20Shot%202024-12-01%20at%2012.59.08.png)
 
 # Flow Chart alur penggunaan program
-![foto]()
+![foto](https://github.com/aprilia55/labpy06/blob/7fa098923de10849e610791bd5aee79c5537129b/Algorithm%20flowchart%20example%20(2).png)
 
 
    
